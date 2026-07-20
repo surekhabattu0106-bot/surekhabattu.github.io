@@ -7,15 +7,15 @@ Passionate Quality Analyst with Hands-On Experience in End-to-End Testing Across
 
 
 ## Education 
-11/2021 – 05/2025 B. Tech
+. 11/2021 – 05/2025 B. Tech
 Chebrolu Engineering College
 Guntur
 CGPA-7.2
-06/2019 – 03/2021	Intermediate
+. 06/2019 – 03/2021	Intermediate
 NRI Junior College
 Tenali
 CGPA-7.3
-06/2018 – 03/2019 SSC	
+. 06/2018 – 03/2019 SSC	
 SSC Viveka High School
 Tenali	
 CGPA-9.2
