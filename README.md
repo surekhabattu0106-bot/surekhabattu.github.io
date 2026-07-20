@@ -42,8 +42,8 @@ QA Intern
   Collaborated closely with teams to ensure high-quality deliverables.
 
   ## Contact
- -Github : https://github.com/surekhabattu0106-bot/surekhabattu.github.io
- -Email : Surekhabattu0106@gmail.com
- -Linkedin : linkedin.com/in/surekha-battu-35a733317
+ - Github : https://github.com/surekhabattu0106-bot/surekhabattu.github.io
+ - Email : Surekhabattu0106@gmail.com
+ - Linkedin :https://www.linkedin.com/in/surekha-battu-35a733317/
   
 
