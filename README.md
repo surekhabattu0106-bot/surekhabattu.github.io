@@ -1,4 +1,4 @@
-Battu Surekha  
+## Battu Surekha  
 
 QA Engineer
 
@@ -6,10 +6,10 @@ QA Engineer
 Passionate Quality Analyst with Hands-On Experience in End-to-End Testing Across Web, Mobile, and AP Platforms. Skilled in Working with Live Projects and Modern Testing Tools, With a Strong Ability to Identify Critical Issues Early and Optimize Testing Workflows. Adept at Improving Product Quality Within Agile Environments. Highly Motivated to Contribute to a Dynamic QA Team Where I Can Continue to Grow, Innovate, and Help Deliver Flawless User Experiences.
 
 ## Skills
--Manual Testing
--Selenium
--Core Java
--SQL
+- Manual Testing
+- Selenium
+- Core Java
+- SQL
 
 
 ## Internship
@@ -28,7 +28,7 @@ Roles and Responsibilities:
 
   ## Contact
 
- Github : https://github.com/surekhabattu0106-bot/surekhabattu.github.io
- Email : Surekhabattu0106@gmail.com
+ -Github : https://github.com/surekhabattu0106-bot/surekhabattu.github.io
+ -Email : Surekhabattu0106@gmail.com
   
 
