@@ -5,6 +5,21 @@ QA Engineer
 ## Profile
 Passionate Quality Analyst with Hands-On Experience in End-to-End Testing Across Web, Mobile, and AP Platforms. Skilled in Working with Live Projects and Modern Testing Tools, With a Strong Ability to Identify Critical Issues Early and Optimize Testing Workflows. Adept at Improving Product Quality Within Agile Environments. Highly Motivated to Contribute to a Dynamic QA Team Where I Can Continue to Grow, Innovate, and Help Deliver Flawless User Experiences.
 
+
+## Education 
+11/2021 – 05/2025 B. Tech
+Chebrolu Engineering College
+Guntur
+CGPA-7.2
+06/2019 – 03/2021	Intermediate
+NRI Junior College
+Tenali
+CGPA-7.3
+06/2018 – 03/2019 SSC	
+SSC Viveka High School
+Tenali	
+CGPA-9.2
+
 ## Skills
 - Manual Testing
 - Selenium
