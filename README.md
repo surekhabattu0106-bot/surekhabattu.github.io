@@ -41,6 +41,13 @@ QA Intern
   Participated actively in Agile ceremonies like sprint planning, daily stand-ups, and retrospectives.
   Collaborated closely with teams to ensure high-quality deliverables.
 
+## Projects
+- Designing Secure and Efficient Biometric Based Secure Access Mechanism for Cloud Services
+  To develop a secure and efficient biometric-based access control system for cloud services, ensuring strong authentication, data protection, and user convenience.
+
+- Results: Designing a secure and efficient biometric-based access mechanism for cloud services involves creating a system that uses unique biological characteristics, such as fingerprints or facial recognition, to authenticate users and grant access to cloud resources
+
+
   ## Contact
  - Github : https://github.com/surekhabattu0106-bot/surekhabattu.github.io
  - Email : Surekhabattu0106@gmail.com
