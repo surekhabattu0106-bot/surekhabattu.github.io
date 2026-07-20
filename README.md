@@ -30,7 +30,7 @@ CGPA-9.2
 ## Internship
 ROBOWAVES
 QA Intern
-Roles and Responsibilities:
+- Roles and Responsibilities:
   Completed live projects involving manual, web automation testing, and mobile testing, ensuring full end-to-end quality assurance.
   Designed, documented, and executed comprehensive manual test cases based on functional requirements and user stories.
   Conducted functional, regression, smoke, and UI testing across different web applications and multiple browsers.
